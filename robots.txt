@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://studyaura.github.io/genzee-study-aura/sitemap.xml
